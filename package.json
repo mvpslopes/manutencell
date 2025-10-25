@@ -1,0 +1,23 @@
+{
+  "name": "manutencell",
+  "version": "1.0.0",
+  "description": "Landing page da Manutencell - Especialistas em manutenção de celulares em Ouro Branco",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve .",
+    "build": "echo 'No build step required'",
+    "dev": "npx serve ."
+  },
+  "keywords": [
+    "manutencell",
+    "manutencao",
+    "celular",
+    "ouro-branco",
+    "landing-page"
+  ],
+  "author": "Manutencell",
+  "license": "MIT",
+  "devDependencies": {
+    "serve": "^14.0.0"
+  }
+}
