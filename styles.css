@@ -81,10 +81,10 @@ body {
 }
 
 .logo-image {
-    width: 60px;
-    height: 60px;
+    width: 100px;
+    height: 100px;
     object-fit: contain;
-    border-radius: 12px;
+    border-radius: 16px;
     transition: transform 0.3s ease;
 }
 
@@ -1779,8 +1779,8 @@ body {
     }
     
     .logo-image {
-        width: 45px;
-        height: 45px;
+        width: 60px;
+        height: 60px;
     }
     
     .hero {
